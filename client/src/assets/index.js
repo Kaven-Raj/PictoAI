@@ -1,9 +1,9 @@
 import download from './download.png';
-import logo from './logo.svg';
 import preview from './preview.png';
+import pictoai_logo from './pictoai_logo.png';
 
 export {
   download,
-  logo,
   preview,
+  pictoai_logo,
 };
