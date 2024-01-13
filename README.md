@@ -39,7 +39,7 @@ CLOUDINARY_API_SECRET=<Enter your cloudinary api secret>
 
 4. Replace backend endpoints:
 
-Change URLs from `https://pictoai.onrender.com` to `http://localhost:8080`
+Change URLs from `https://picto-ai-backend.vercel.app/` to `http://localhost:8080`
 
 5. Start the backend:
 
