@@ -37,17 +37,18 @@ CLOUDINARY_API_KEY=<Enter your cloudinary api key>
 CLOUDINARY_API_SECRET=<Enter your cloudinary api secret>
 ```
 
-5. Replace backend endpoints:
-   Change URLs from `https://pictoai.onrender.com` to `http://localhost:8080`
+4. Replace backend endpoints:
 
-6. Start the backend:
+Change URLs from `https://pictoai.onrender.com` to `http://localhost:8080`
+
+5. Start the backend:
 
 ```
 cd server
 npm start
 ```
 
-5. Start the frontend:
+6. Start the frontend:
 
 ```
 cd client
